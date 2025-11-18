@@ -41,12 +41,6 @@ It helps identify top-performing products, regions, and customers, while highlig
 - 💸 **High discounts** → Significant profit reduction  
 - 🏆 **Top customers** identified for revenue focus
 
-## 📂 File Structure
-
-| File Name | Description |
-|-----------|-------------|
-| `Superstore_Final.pbix` | Power BI report with all dashboard pages. |
-| `Sample-Superstore-Final.xlsx` | Dataset containing Orders, Returns, and People tables. |
 
 ## Dashboard Preview
 <img width="576" height="324" alt="welcomepage" src="https://github.com/user-attachments/assets/26f9d722-7071-4735-9c96-52a75986e435" />
