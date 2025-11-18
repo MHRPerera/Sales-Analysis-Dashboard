@@ -48,9 +48,14 @@ It helps identify top-performing products, regions, and customers, while highlig
 | `Superstore_Final.pbix` | Power BI report with all dashboard pages. |
 | `Sample-Superstore-Final.xlsx` | Dataset containing Orders, Returns, and People tables. |
 
-## 📷 Dashboard Preview
+<img width="576" height="324" alt="welcomepage" src="https://github.com/user-attachments/assets/26f9d722-7071-4735-9c96-52a75986e435" />
+ Dashboard Preview
+<img width="581" height="324" alt="sales overview" src="https://github.com/user-attachments/assets/002baae2-f116-4800-94e7-f7829d858544" />
+<img width="581" height="325" alt="profit analysis" src="https://github.com/user-attachments/assets/3678cb5d-db1f-48ef-8af2-2fd882768059" />
+<img width="580" height="322" alt="Time series analysis" src="https://github.com/user-attachments/assets/d5232cd0-14af-40a5-9e3b-fc1bd2977660" />
+<img width="580" height="326" alt="Customer analysis" src="https://github.com/user-attachments/assets/2a0b22e3-6ed8-40d4-911c-6a9a7e60bb90" />
+<img width="584" height="326" alt="individual Customer analysis" src="https://github.com/user-attachments/assets/024528bb-e0ce-46b7-9a3a-11281392c4c8" />
 
-*(Add screenshots here for each page, e.g., Welcome, Sales Overview, Profit Analysis, etc.)*
 
 ## 👨‍💻 Author
 
